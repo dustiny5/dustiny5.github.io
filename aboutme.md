@@ -12,3 +12,7 @@ Interest and Hobbies
 - Exercise
 - Games
 - Stocks
+- Travel
+
+Current Location:
+Los Angeles
