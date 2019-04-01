@@ -14,10 +14,10 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Data Science
+title: Dustin's Blog
 
 # Short description of your site
-description: Personal work page to show the beauty of analyzing data and machine learning.
+description: Project showcase
 
 # --- Navigation bar options --- #
 
