@@ -14,10 +14,10 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Dustin - Data Scientist Student
+title: Data Science
 
 # Short description of your site
-description: Personal work page to show the beauty of collecting and analyzing data
+description: Personal work page to show the beauty of analyzing data and machine learning.
 
 # --- Navigation bar options --- #
 
@@ -72,7 +72,7 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "someone@example.com"
+  email: "yangdustin55555@gmail.com"
 # facebook: daattali
   github: dustiny5.github.io
 #  twitter: daattali
